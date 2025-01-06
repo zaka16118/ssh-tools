@@ -1,9 +1,9 @@
 package com.zxj.utils;
 
 public class DestHost {
-    private String host = "192.168.28.128";
-    private String username = "zxj";
-    private String password = "645467";
+    private String host = "******";
+    private String username = "******";
+    private String password = "******";
     private int port = 22;
     private int timeout = 60 * 60 * 1000;
 
